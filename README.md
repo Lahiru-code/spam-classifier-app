@@ -2,6 +2,9 @@
 
 A Streamlit web app that predicts whether a message is spam or not spam using a trained machine learning model.
 
+## Live Demo
+[Open the app here](https://spam-classifier-app-hpljj8zyqetennmjupkiwn.streamlit.app/)
+
 ## Features
 - Enter a custom message
 - Predict Spam / Not Spam
